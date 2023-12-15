@@ -1,11 +1,11 @@
 export const operatorsMap: any = {
-  $or: "OR",
   $and: "AND",
-  $lt: "<",
+  $or: "OR",
   $lte: "<=",
+  $lt: "<",
   $gt: ">",
   $gte: ">=",
   $ne: "!=",
-  $in: "IN",
   $eq: "=",
+  $in: "IN",
 };
